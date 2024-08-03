@@ -1,8 +1,8 @@
 # Algorithms
-Varies Datastructure and Algorithm Implementation
+Various Datastructure and Algorithm Implementation for the betterment of self. 
 
 Algo and DS implementation using Java(7 & 8) language.
 
-Hackerrank solutions using Java.
+Hackerrank & others solutions using Java.
 
 Solutions are for practice and learning purposes only.
